@@ -1,0 +1,13 @@
+{
+  "homepage": "https://github.com/DotBow/Blender-Launcher",
+  "version": "1.13.0",
+  "license": "GNU General Public License v3.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/DotBow/Blender-Launcher/releases/download/v1.13.0/Blender_Launcher_v1.13.0_Windows_x64.zip"
+    }
+  },
+  "bin": [
+    "Blender Launcher.exe"
+  ]
+}
